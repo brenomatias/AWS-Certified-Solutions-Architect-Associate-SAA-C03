@@ -1,1 +1,1 @@
-.theory.txt
+theory.txt
