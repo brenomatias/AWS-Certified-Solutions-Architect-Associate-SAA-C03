@@ -1,3 +1,11 @@
 - Some AWS service will need to perform actions on your behalf
 
 - To do so, we will assign PERMISSIONS to AWS services with IAM Roles
+  
+  -> Common Roles: 
+     - EC2 Instance Roles
+     - Lambda Function Roles
+     - Roles for CloudFormation
+
+
+IAM Role definition: An IAM entity that defines a set of permissions for making requests to AWS SERVICES, and will be used by an AWS SERVICES

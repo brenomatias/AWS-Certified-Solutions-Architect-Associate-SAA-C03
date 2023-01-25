@@ -20,3 +20,6 @@ Users don't have to belong a group, and user can belong to multiple groups
  *Password Policy
  - normal password
  - multi factor authetication - MFA
+
+
+ **** IAM Users access AWS service using their own credentials (username & password or Access Keys)

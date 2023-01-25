@@ -25,4 +25,9 @@ To access AWS, you have three options:
 
 
 
- CREATE ACCESS KEYS for CLI
+**** CREATE ACCESS KEYS for CLI
+
+
+
+ **** What are IAM Policies?
+ JSON documents that DEFINE A SET of PERMISSIONS for making requests to AWS services, and can be used by IAM Users, User Groups, and IAM Roles
