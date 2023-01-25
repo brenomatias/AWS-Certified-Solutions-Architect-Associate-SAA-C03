@@ -1,4 +1,4 @@
-# AWS-Certified-Solutions-Architect-Associate-SAA-C03
+# AWS full course.
 Preparation for the AWS exam and for the real world.
 
 - The AWS Fundamentals: IAM, EC2, Load Balancing, Auto Scaling, EBS, EFS, Route 53, RDS, ElastiCache, S3, CloudFront
