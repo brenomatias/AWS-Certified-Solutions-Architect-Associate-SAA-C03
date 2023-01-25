@@ -1,7 +1,7 @@
 IAM: 
 
 - IAM = identity and Access Management, Global Service
-
+é possível especificar quem pode acessar quais serviços e recursos da AWS (daquela nuvem especifica) e em que condições 
 
 * Users & Groups
     Users: people within your organization, and can be grouped
@@ -12,3 +12,11 @@ Users don't have to belong a group, and user can belong to multiple groups
 
 
  Create adm account (root account) -> depois criar outro usuário. deixar a conta root apenas como segurança
+
+
+ * Policies: 
+ IAM policies define permissions for an action regardless of the method that you use to perform the operation. For example, if a policy allows the GetUser action, then a user with that policy can get user information from the AWS Management Console, the AWS CLI, or the AWS API.
+
+ *Password Policy
+ - normal password
+ - multi factor authetication - MFA

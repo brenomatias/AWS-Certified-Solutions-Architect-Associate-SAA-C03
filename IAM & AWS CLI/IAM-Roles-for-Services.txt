@@ -1,0 +1,3 @@
+- Some AWS service will need to perform actions on your behalf
+
+- To do so, we will assign PERMISSIONS to AWS services with IAM Roles

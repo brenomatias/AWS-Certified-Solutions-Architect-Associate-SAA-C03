@@ -1,0 +1,28 @@
+To access AWS, you have three options:
+ - WAS Management Console 
+ - AWS Command Line Interface (CLI) -> terminal: protected by access keys
+ - AWS Software Developer Kit (SDK) - for code: protected by access keys
+
+-> Access Keys are generated through the AWS Console
+   (users manage their own access keys)
+      - Access Key ID ~= username
+      - Secret Access Key ~= password
+
+
+
+* What's the AWS CLI?
+- a tool that enables ypu to interact with AWS services using commands in your command-line shell
+
+- direct access to the public APIs of AWS services
+- Alternative to using AWS Management Console
+
+* What's the AWS SDK?
+- Language-specific APIs (set of libraries)
+- Embedded within ypur application
+- Supports 
+ - SDKs (JavaScript, Python, PHP, .NET, Java, Node.js)
+ - Mobile SKDs
+
+
+
+ CREATE ACCESS KEYS for CLI

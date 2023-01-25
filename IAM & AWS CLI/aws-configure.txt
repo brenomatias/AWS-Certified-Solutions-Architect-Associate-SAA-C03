@@ -1,0 +1,7 @@
+on the CLI:
+
+      aws configure
+
+* show users: 
+
+    aws iam list-users
